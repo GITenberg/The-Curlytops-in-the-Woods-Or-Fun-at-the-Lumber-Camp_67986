@@ -1,0 +1,40 @@
+_repo: The-Curlytops-in-the-Woods-Or-Fun-at-the-Lumber-Camp_67986
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Greene, Julia
+    gutenberg_agent_id: '9693'
+    url: http://www.gutenberg.org/2009/agents/9693
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/32638
+    - https://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2022-05-04'
+identifiers:
+  gutenberg: '67986'
+language: en
+pgterms:marc904: https://archive.org/details/curlytopsinwoods00gari/page/n5/mode/2up
+pgterms:marc905: 20201030185041garis
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Charlene Taylor, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Cupples & Leon company,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Curlytops in the Woods: Or, Fun at the Lumber Camp'
+url: http://www.gutenberg.org/ebooks/67986
